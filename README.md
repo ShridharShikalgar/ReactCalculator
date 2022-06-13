@@ -1,7 +1,7 @@
 # ReactCalculator
 I have developed this React App using HTML, CSS, Javascript and Reactjs
 
-### Hosted Link : https://0apexx0.github.io/React_Calculator/
+### Hosted Link : https://shridharshikalgar.github.io/ReactCalculator/
 
 ## Features 
 - Add
